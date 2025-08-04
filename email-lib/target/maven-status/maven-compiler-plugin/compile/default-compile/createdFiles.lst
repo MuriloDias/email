@@ -1,5 +1,0 @@
-br\com\mensageria\email\lib\dto\Anexo.class
-br\com\mensageria\email\lib\dto\EmailRequest.class
-br\com\mensageria\email\lib\entity\EmailMessageEntity.class
-br\com\mensageria\email\lib\repository\EmailMessageRepository.class
-br\com\mensageria\email\lib\converter\EmailMessageConverter.class
